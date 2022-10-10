@@ -1,0 +1,4 @@
+This is a collection of examples intended to highlight good and bad practices.
+Each folder contains an example, because some examples include C extension
+module code which needs to be built manually. Hopefully, some day, someone will
+find this useful.
