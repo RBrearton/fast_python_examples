@@ -1,0 +1,5 @@
+You need to first run:
+
+python setup.py build_ext --inplace
+
+to build the numpy module. Once you've done that, you can run the example.
